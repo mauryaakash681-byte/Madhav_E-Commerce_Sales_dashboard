@@ -45,7 +45,9 @@ Data model and DAX:-
 Star schema with fact table for sales and dimensions for date, customer, product, state, and payment mode.
 Key measures: Revenue, Quantity, Profit, AOV, Contribution %, MoM/YoY growth, and Profitability by sub‑category.
 
-Contact
-Akash Maurya 
-Linkedin-https://www.linkedin.com/in/akashrkrmaurya/
-email-mauryaakash681@gmail.com
+👤 Author
+
+Akash Maurya
+LinkedIn: https://www.linkedin.com/in/akashrkrmaurya/
+Email: mauryaakash681@gmail.com
+⭐ If you like this project, don’t forget to star this repo and share your feedback!
